@@ -1,1 +1,1 @@
-# DjangoProjek
+ https://gusdesindu.github.io/DjangoProjek/
